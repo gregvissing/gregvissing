@@ -2,11 +2,10 @@
 
 ### Hi, I'm Greg 👋
 
-I’m a Web Developer & UI Designer for The University of Cincinnati Foundation. I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource that 
-a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
+I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource where I blog about what I'm working on, resources that have helped out in the past and anything else that I find interesting in Web Dev/Design world! I currently work as a Web Developer & UI Designer at The University of Cincinnati Foundation. 
 
 - 📱  I’m currently working on the next version of the University of Cincinnati Foundation Giving Form.
 - 🤓 I’m currently learning Design UI and Project Management.
 - 💬  Ask me about Blackbaud Internet Solutions, HTML, CSS, JavaScript, Accessibility.
 - 📫  How to reach me: frontrowgreg@gmail.com or Twitter [@frontrowgreg](twitter.com/frontrowgreg)
-- 🚴🏽‍♀️  Fun fact: I love cycling and I'm currently building up my mileage so I can do my first century ride!
+- 🚴🏽‍♀️  Fun fact: I was given the nickname "Front Row Greg" during this [webinar](https://vimeo.com/347206663)!
