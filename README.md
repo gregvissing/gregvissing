@@ -2,7 +2,8 @@
 
 ### Hi, I'm Greg 👋
 
-I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
+I’m a Web Developer & UI Designer for The University of Cincinnati Foundation. I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource that 
+a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
 
 - 📱  I’m currently working on the next version of the University of Cincinnati Foundation Giving Form.
 - 🤓 I’m currently learning Design UI and Project Management.
