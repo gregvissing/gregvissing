@@ -8,4 +8,4 @@ I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource where 
 - 🤓 I’m currently learning Design UI and Project Management.
 - 💬  Ask me about Blackbaud Internet Solutions, HTML, CSS, JavaScript, Accessibility.
 - 📫  How to reach me: frontrowgreg@gmail.com or Twitter [@frontrowgreg](twitter.com/frontrowgreg)
-- 🚴🏽‍♀️  Fun fact: I was given the nickname "Front Row Greg" during this [webinar](https://vimeo.com/347206663)!
+- Fun fact: I was given the nickname "Front Row Greg" during this [webinar](https://vimeo.com/347206663)!
