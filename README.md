@@ -2,7 +2,7 @@
 
 ### Hi, I'm Greg 👋
 
-I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource where I blog about what I'm working on, resources that have helped out in the past and anything else that I find interesting in Web Dev/Design world! I currently work as a Web Developer & UI Designer at The University of Cincinnati Foundation. 
+I'm the creator of [Front Row Greg](frontrowgreg.com), a website resource where I blog about what I'm working on, resources that have helped out in the past and anything else that I find interesting in Web Dev/Design world! I currently work as a Senior Web Developer & UI/UX Designer at The University of Cincinnati Foundation. 
 
 - 📱  I’m currently working on the next version of the University of Cincinnati Foundation Giving Form.
 - 🤓 I’m currently learning Design UI and Project Management.
